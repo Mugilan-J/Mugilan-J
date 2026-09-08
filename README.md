@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hey, I'm Mugilan
 
-<!--
-**Mugilan-J/Mugilan-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Engineering Student • Developer • Builder
 
-Here are some ideas to get you started:
+> Turning ideas into things that work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Currently
+
+- 🧠 Learning Data Structures & Algorithms
+- 💻 Building real-world projects
+- 🚀 Exploring Backend & System Design
+
+---
+
+## 🛠️ Tech Stack
+
+Python • Java • C • JavaScript • HTML • CSS
+
+---
+
+## 🚀 Featured Projects
+
+### 🍳 CookKIT
+A cooking-related web project.
+
+### 💳 Billing Engine
+Backend-oriented billing system.
+
+### 🎮 Game-Wise
+A gaming-related web project.
+
+### 🤖 interviewer.ai
+AI-focused interview project.
+
+---
+
+## 📊 GitHub
+
+![GitHub Stats](...)
+
+---
+
+### 💭
+
+> Build. Break. Learn. Rebuild.
